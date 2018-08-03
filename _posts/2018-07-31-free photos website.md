@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "free phots website"
+title:  "free photos website"
 subtitle: ""
 categories: ""
 author: Ha
