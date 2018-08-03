@@ -1,0 +1,21 @@
+title:             Hello Geek 
+email:             geek1250@gmail.com
+description:       A Blog by a Geek
+author:            HelloGeek.org
+baseurl:           "/"
+url:               "https://hellogeek.org"
+
+# Social Profiles
+twitter_username:  Google
+github_username:   Google
+facebook_username: Google
+
+permalink: /blog/:categories/:title
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
