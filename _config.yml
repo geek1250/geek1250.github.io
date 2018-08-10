@@ -3,12 +3,12 @@ email:             geek1250@gmail.com
 description:       A Blog by a Geek
 author:            HelloGeek.org
 baseurl:           "/"
-url:               "https://hellogeek.org"
+url:               ""
 
 # Social Profiles
-twitter_username:  Google
-github_username:   Google
-facebook_username: Google
+twitter_username:  
+github_username:   
+facebook_username: 
 
 permalink: /blog/:categories/:title
 
