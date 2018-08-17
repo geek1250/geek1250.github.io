@@ -4,7 +4,7 @@ title:  "Text ASCII Art Generator "
 subtitle: ""
 categories: ""
 author: Ha
-date:   2018-08-016 15:34:56 -0400
+date:   2018-08-16 15:34:56 -0400
 background: '/img/posts/06.jpg'
 ---
 
