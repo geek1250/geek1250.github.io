@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Text ASCII Art Generator "
+title:  "Internationalization"
 subtitle: ""
 categories: ""
 author: Ha
 date:   2018-08-17 15:34:56 -0400
-background: '/img/posts/06.jpg'
+background: '/img/posts/01.jpg'
 ---
 
 <p>
