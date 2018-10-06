@@ -10,6 +10,7 @@ background: '/img/posts/04.jpg'
 
 <p>
 https://gamedev.stackexchange.com/questions/139370/unable-to-rollout-release-to-alpha-in-google-play-console
+<p>
 
 You are required to supply information in the sections marked with a grey checkmark (now a grey triangle with exclamation mark), in all required fields (marked with a blue asterisk). This includes, but isn't restricted to:
 
