@@ -30,8 +30,12 @@ java -jar jenkins.war --httpPort=8080
 3)chmod a+rx jenkins.sh
 4) ./jenkins.sh
 
+<br>
 Plugins:
-add Git Parameter if you build need parameter
+<br>  click "Manage Jenkins" link first at the left meun and then click "go to plugin Manager"
+<br> click "available" link and find plugin name. check it and install it.
+<br> add Git Parameter if you build need parameter
+<br>
 
   
 
