@@ -20,3 +20,17 @@ Browse to http://localhost:8080.
 
 Follow the instructions to complete the installation.
 
+<p> or run it by script
+1) vim jenkins.sh
+2)input the following content in it 
+#!/bin/sh
+# Run Jenkins
+java -jar jenkins.war --httpPort=8080
+  
+3)chmod a+rx jenkins.sh
+4) ./jenkins.sh
+
+
+  
+
+
