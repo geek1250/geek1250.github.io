@@ -30,6 +30,8 @@ java -jar jenkins.war --httpPort=8080
 3)chmod a+rx jenkins.sh
 4) ./jenkins.sh
 
+Plugins:
+add Git Parameter if you build need parameter
 
   
 
