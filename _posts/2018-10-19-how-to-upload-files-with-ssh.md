@@ -11,5 +11,6 @@ background: '/img/posts/03.jpg'
 
 scp (file) (username)@(IP address or hostname):(Destination)
 
+<br>exampole:
 <br>
-scp 1.zip root@hellogeek.org:/home/geek/
+scp filename username@domain:/home/geek/
