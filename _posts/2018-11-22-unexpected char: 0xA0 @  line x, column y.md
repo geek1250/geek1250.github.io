@@ -59,9 +59,12 @@ def destinationPath = "*" + buildType + ".apk," + vars.getValue("nid") + ".apk";
     at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
     at java.lang.Thread.run(Thread.java:748)
     
-<br>
+
     
-    Reason: the spaces in the line are NO-BREAK SPACE. They should be SPACE.
+    
+
+<br>
+Reason: the spaces in the line are NO-BREAK SPACE. They should be SPACE.
 
 <br>
 How to fix:  change these NO-BREAK spaces to the correct SPACE ones.
