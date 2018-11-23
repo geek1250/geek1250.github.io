@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  "unexpected char: 0xA0 @  line X, column Y"
