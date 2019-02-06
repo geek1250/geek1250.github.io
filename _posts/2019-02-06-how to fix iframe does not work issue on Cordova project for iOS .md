@@ -31,4 +31,8 @@ add the following code in Your-Project/platforms/ios/config.xml
 
  <br>   
  add <allow-navigation href="*"/> in the config,,xml too if needed.
-
+ 
+ 
+ <br>
+Ref: 
+https://groups.google.com/forum/#!searchin/phonegap/iframe$20not$20working|sort:date/phonegap/c7QX4LPP4Wc/pojm0t3mBAAJ
