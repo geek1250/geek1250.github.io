@@ -4,7 +4,7 @@ title:  "how to open all exception of breakpoint in Safari'Web Inspector"
 subtitle: ""
 categories: ""
 author: Geek
-date:   2019-02-06 15:34:56 -0400
+date:   2019-02-06 15:54:56 -0400
 background: '/img/posts/06.jpg'
 ---
 
