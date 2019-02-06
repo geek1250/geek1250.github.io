@@ -17,11 +17,18 @@ Meanwhile, <allow-navigation href="*"/> is also needed in config.xml but it is n
 Fix:
 <br>
 add the following code in Your-Project/platforms/ios/config.xml
-<br>    <feature name="IntentAndNavigationFilter">
-<br>        <param name="ios-package" value="CDVIntentAndNavigationFilter"/>
-<br>        <param name="onload" value="true"/>
-<br>    </feature>
-    
+
+
+<pre>
+  <code class="javascript">
+      <feature name="IntentAndNavigationFilter">
+        <param name="ios-package" value="CDVIntentAndNavigationFilter"/>
+        <param name="onload" value="true"/>
+      </feature>
+  </code>
+</pre>
+
+
  <br>   
  add <allow-navigation href="*"/> in the config,,xml too if needed.
 
