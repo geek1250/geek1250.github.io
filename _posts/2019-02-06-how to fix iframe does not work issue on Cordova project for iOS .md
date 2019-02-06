@@ -20,7 +20,7 @@ add the following code in Your-Project/platforms/ios/config.xml
 
 
 <pre>
-  <code class="javascript">
+  <code class="ruby">
       <feature name="IntentAndNavigationFilter">
         <param name="ios-package" value="CDVIntentAndNavigationFilter"/>
         <param name="onload" value="true"/>
