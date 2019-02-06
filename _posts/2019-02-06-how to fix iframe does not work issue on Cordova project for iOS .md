@@ -4,7 +4,7 @@ title:  "how to fix iframe does not work issue on Cordova project for iOS"
 subtitle: ""
 categories: ""
 author: Geek
-date:   2019-02-06 15:34:56 -0400
+date:   2019-02-06 16:34:56 -0400
 background: '/img/posts/01.jpg'
 ---
 Issue: iframe could not load and shows blank on Cordova 8.
