@@ -20,4 +20,6 @@ However, we fixed it by changing the value of BackupWebStorage preference from l
   <preference name="BackupWebStorage" value="cloud" />
 </code>
 <br>
+BackupWebStorage (string, either none, local, or the default cloud): Set to cloud to allow web storage data to backup via iCloud. Set to local to allow only local backups via iTunes sync. Set to none prevent web storage backups.
+<br>https://cordova.apache.org/docs/en/5.1.1/guide/platforms/ios/config.html
 
