@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "osstatus"
+title:  "conflicting provisioning settings in Xcode"
 subtitle: ""
 categories: ""
 author: Geek
