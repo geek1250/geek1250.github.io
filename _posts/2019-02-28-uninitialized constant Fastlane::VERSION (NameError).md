@@ -18,7 +18,8 @@ Error:
 	from /Users/YOURUSERNAME/.rvm/gems/ruby-2.3.3/bin/fastlane:23:in `<main>'
 	from /Users/YOURUSERNAME/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:24:in `eval'
 	from /Users/YOURUSERNAME/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:24:in `<main>'
-<br>
+
+<p>
 Fix steps(not sure which step finially work):
 <br>
 sudo gem install rubygems-update
