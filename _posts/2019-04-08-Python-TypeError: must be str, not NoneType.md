@@ -19,7 +19,7 @@ add DocStrings in the very begin of the method
 example:
 <br>
 def this_is_the_method(self):
-<br>    
+<br>
     """This is the DocStrings"""
     
     
