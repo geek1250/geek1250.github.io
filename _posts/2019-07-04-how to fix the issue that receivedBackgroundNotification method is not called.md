@@ -12,6 +12,34 @@ If "content-available": true is added in the Payload of the Test Push in UrbanSh
 (void)receivedBackgroundNotification:(NSDictionary *)notification fetchCompletionHandler:(void (^)(UIBackgroundFetchResult result))completionHandler will be called.
 
 <br>
+The Payload looks like:
+
+{
+
+    "audience": {
+
+        "device_token": "HERE IS THE DEVICE TOKEN"
+
+    },
+
+    "notification": {
+
+        "ios": {
+
+            "content-available": true
+
+        }
+
+    },
+
+    "device_types": [
+
+        "ios"
+
+   ]
+
+}
+<br>
 Sourece:
 <br>
 “If you fail to include this flag(content-available flag) in the notification, your app will not receive any protocol method calls when the notification arrives” in https://medium.com/posts-from-emmerge/ios-push-notification-background-fetch-demystified-7090358bb66e
