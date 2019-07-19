@@ -4,7 +4,7 @@ title:  "Could not install packages due to an EnvironmentError"
 subtitle: ""
 categories: ""
 author: Geek
-date:   2019-07-1 815:34:56 -0400
+date:   2019-07-18 15:34:56 -0400
 background: '/img/posts/02.jpg'
 ---
 
