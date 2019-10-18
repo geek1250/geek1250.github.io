@@ -19,6 +19,6 @@ How to fix:
 method 1:
 add platform :ios, '9.0' in file ios/Podfile
 
-method 1:
+method 2:
 change s.ios.deployment_target = '9.0' to s.ios.deployment_target = '8.0'in file: ios/.symlinks/plugins/flutter_facebook_login/ios/flutter_facebook_login.podspec
 s.ios.deployment_target = '9.0'
