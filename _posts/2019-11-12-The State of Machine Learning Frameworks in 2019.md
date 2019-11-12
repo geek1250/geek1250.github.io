@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "how to fix the error bottom overflowed by XX pixels in Flutter"
+title:  "The State of Machine Learning Frameworks in 2019"
 subtitle: ""
 categories: ""
 author: Geek
-date:   2019-11-04 15:54:56 -0400
+date:   2019-11-12 15:54:56 -0400
 background: '/img/posts/05.jpg'
 ---
 https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/
