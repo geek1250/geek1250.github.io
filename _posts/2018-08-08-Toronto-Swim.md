@@ -10,7 +10,9 @@ background: '/img/posts/05.jpg'
 
 
 <a href="https://www.toronto.ca/data/parks/prd/swimming/dropin/lane/index.html">Lane Swim</a>
+<p>
 <a href="https://www.toronto.ca/data/parks/prd/swimming/dropin/leisure/index.html">Leisure Swim</a>
+<p>
 <a href="https://www.toronto.ca/data/parks/prd/swimming/dropin/aquafit/index.html">Aqua Fit</a>
 
 
