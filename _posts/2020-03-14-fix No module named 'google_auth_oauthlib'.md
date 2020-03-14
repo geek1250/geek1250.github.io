@@ -8,7 +8,8 @@ date:   2020-03-14 15:54:56 -0400
 background: '/img/posts/01.jpg'
 ---
 fixed by the following suggestion:
-make sure you installed the package for the correct python version
+make sure you installed the package for the correct python version 
+in https://www.pythonanywhere.com/forums/topic/14621/
 
 bg:
 https://developers.google.com/youtube/v3/quickstart/python
