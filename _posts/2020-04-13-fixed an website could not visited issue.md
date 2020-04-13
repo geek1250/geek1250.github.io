@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fixed an website could not visited issue"
+title:  "fixed an issue that a website could not be visited "
 subtitle: ""
 categories: ""
 author: Geek
