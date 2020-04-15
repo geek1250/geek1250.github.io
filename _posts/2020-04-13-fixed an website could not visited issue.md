@@ -16,4 +16,6 @@ How to fix:
 If the server is one core CPU, the max value of worker_connections should be 1024.
 If it has b CPUS, the the max value of worker_connections should be 1024*n.
 
-worker_rlimit_nofile is also needed to change. Value is same as worker_connections.
+The value of worker_connections also can be shown when using command "ulimit -n" in terminal.
+
+worker_rlimit_nofile is also needed to change. The max Value is same as worker_connections.
