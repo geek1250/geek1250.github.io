@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fixed a too Many Redirects issue"
+title:  "VIM set UTF-8 format"
 subtitle: ""
 categories: ""
 author: Geek
